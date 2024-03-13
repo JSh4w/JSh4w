@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-Computer Engineering Graduate - University Of Cambridge 
+Working in Software/Hardware
+University of Cambridge 2023 - Computer and Information Engineering 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=Hardware+Engineer)](https://git.io/typing-svg)
 
@@ -12,9 +12,6 @@ Computer Engineering Graduate - University Of Cambridge
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSh4w&layout=compact&theme=synthwave&hide_border=true" />
 </a> 
-
-
-<div align="center"><a href="https://github.com/twibiral">Click here to find out more about infinite loops!</a></div>
 
 
 <!--
