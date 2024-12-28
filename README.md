@@ -15,8 +15,9 @@ University of Cambridge 2023 - Computer and Information Engineering
 
 
 
+<!-- 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JontyShaw?theme=light&font=Rancho&ext=activity)
-<!--
+
 **JSh4w/JSh4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
