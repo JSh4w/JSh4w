@@ -6,14 +6,7 @@ University of Cambridge 2023 - Computer and Information Engineering
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=HW/SW+Engineer)](https://git.io/typing-svg)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSh4w&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="JSh4w Statistics" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSh4w&layout=compact&theme=synthwave&hide_border=true" />
-</a> 
-
-
+[![Jonathan Shaw's GitHub stats](https://github-stats-extended.vercel.app/api?username=jsh4w)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JontyShaw?theme=light&font=Rancho&ext=activity)
