@@ -3,7 +3,7 @@
 Working in Software/Hardware
 University of Cambridge 2023 - Computer and Information Engineering 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=HW/SW+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B7B65&lines=SW+Engineer+with+a+HW+mindset)](https://git.io/typing-svg)
 
 
 [![Jonathan Shaw's GitHub stats](https://github-stats-extended.vercel.app/api?username=jsh4w)](https://github.com/stats-organization/github-stats-extended)
